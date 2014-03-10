@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>L'Oranger</title>
+	<title>L'Onranger</title>
 	<link rel="stylesheet" type="text/css" href="CSS1.css">
 	<link rel="stylesheet" type="text/css" href="Baniere.css">
 </head>
