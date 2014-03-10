@@ -1,5 +1,6 @@
 <html>
 <head>
+//t'es un pdddd
 	<title>L'Oranger</title>
 	<link rel="stylesheet" type="text/css" href="CSS1.css">
 	<link rel="stylesheet" type="text/css" href="Baniere.css">
